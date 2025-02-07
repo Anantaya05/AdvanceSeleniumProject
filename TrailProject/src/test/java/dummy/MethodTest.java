@@ -2,7 +2,7 @@ package dummy;
 
 import org.testng.annotations.Test;
 
-//Trying to github conflict
+//smoke branch
 
 public class MethodTest {
 	@Test
